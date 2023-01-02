@@ -11,6 +11,9 @@ body {
   background: #343541;
 }
 
+footer{
+  margin: 1rem;
+}
 #app {
   width: 100vw;
   height: 100vh;
@@ -43,7 +46,9 @@ body {
 #chat_container::-webkit-scrollbar {
   display: none;
 }
-
+#chat_stripe{
+  margin-bottom: 2rem;
+}
 .wrapper {
   width: 100%;
   padding: 15px;
